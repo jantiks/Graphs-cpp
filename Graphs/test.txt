@@ -1,0 +1,3 @@
+node (0 {nula})
+node (1 {jedna})
+node (2 {dva})
